@@ -1,6 +1,6 @@
-Hi! I am a PhD candidate with a blend of expertise in immunology, molecular biology and data science. 
+Hi! I am a postdoctoral researcher with a blend of expertise in immunology, molecular biology and data science. 
 
-  :bulb:	My research revolves around the application of data-driven, biology-aware methodologies to identify biomarkers of vaccine responsiveness in the aging population.
+  :bulb:	My PhD research revolved around the application of data-driven, biology-aware methodologies to identify biomarkers of vaccine responsiveness in the aging population. Now as a postdoctoral researcher, I investigate early immunological markers to identify individuals at risk of developing rheumatoid arthritis, aiming to advance therapeutic development.
 
   :computer:	You can find the R scripts for each publication in the corresponding repositories. 
   
