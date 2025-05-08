@@ -2,7 +2,7 @@ Hi! I am a postdoctoral researcher with a blend of expertise in immunology, mole
 
   :bulb:	My PhD research revolved around the application of data-driven, biology-aware methodologies to identify biomarkers of vaccine responsiveness in the aging population. 
   
-  Now as a postdoctoral researcher, I investigate early immunological markers to identify individuals at risk of developing rheumatoid arthritis.
+  Now as a postdoctoral researcher, I investigate immune mechanisms preceding rheumatoid arthritis development.
 
   :computer:	You can find the R scripts for each publication in the corresponding repositories. 
   
